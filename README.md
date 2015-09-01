@@ -6,4 +6,4 @@ The current version is 2.0.
 
 ### Note
 - Android 4.3 or later is required.
-
+- Android Studio supported 
